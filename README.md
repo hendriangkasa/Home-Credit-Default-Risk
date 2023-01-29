@@ -1,1 +1,2 @@
 # Home-Credit-Default-Risk
+Dalam upaya meningkatkan produktivitas perusahaan, Home Credit Indonesia ingin mengoptimalkan peminjaman kepada klien mereka dengan memprediksi kemampuan klien dalam melakukan pembayaran untuk mengurangi potensi keterlambatan dalam pembayaran. Oleh karena itu, saya sebagai data scientist akan menggunakan data informasi dan transaksi dari klien yang diberikan oleh perusahaan untuk membuat model yang tepat dalam memprediksi potensi keterlambatan pembayaran oleh seorang klien.
